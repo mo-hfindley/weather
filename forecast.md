@@ -3,3 +3,7 @@
 ## Today
 
 Cloudy
+
+## Tomorrow
+
+Cloudy
